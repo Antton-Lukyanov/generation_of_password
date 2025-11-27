@@ -25,3 +25,6 @@ CSS-модули - компонентная стилизация
  CSS3
  JavaScript ES6+
  npm
+
+Рабочее окно приложения:
+![alt text](image-1.png)
